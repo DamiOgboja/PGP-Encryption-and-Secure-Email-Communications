@@ -8,7 +8,7 @@ This lab was a school assignment from January 2025 where I was tasked with makin
 
 # Technical Environment
 
-Operating System: Windows/Linux
+Operating System: Windows
 
 Encryption Software: Kleopatra / GnuPG
 
